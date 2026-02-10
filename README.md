@@ -313,8 +313,8 @@ MIT License - See LICENSE file for details
 
 For issues, questions, or suggestions:
 
-- GitHub Issues: https://github.com/yourusername/vc-test/issues
-- Documentation: https://github.com/yourusername/vc-test/wiki
+- GitHub Issues: WIP
+- Documentation: WIP
 
 ---
 
