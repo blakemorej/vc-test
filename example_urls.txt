@@ -1,0 +1,10 @@
+# Example URLs for testing SEO Content Difference Tool
+# One URL per line - lines starting with # are comments
+
+# Example websites
+https://www.scufgaming.com/us/en/c/ps5
+https://www.scufgaming.com/us/en/c/xbox
+
+# Note: These URLs are for testing purposes
+# The tool will fetch both raw HTML and JS-rendered versions
+# and compare the content differences
