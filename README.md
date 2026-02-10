@@ -34,7 +34,7 @@ This tool helps SEO professionals, developers, and content strategists understan
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/vc-test.git
+git clone https://github.com/blakemorej/vc-test.git
 cd vc-test
 
 # Install dependencies
@@ -224,7 +224,7 @@ engine/
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/vc-test.git
+git clone https://github.com/blakemorej/vc-test.git
 cd vc-test
 
 # Create virtual environment
